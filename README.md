@@ -8,7 +8,7 @@ Você precisa ter o docker na ultima versão e o docker-composer instalados em s
 
 ## Começando
     Basta Clonar o projeto, entrar na pasta e digitar o seguinte comando:
-    docker-compose up . 
+    docker-compose up  
     Esse comando vai subir o ambiente completo, com o Jenkins na porta 8080 e o SonarQube na porta 9000.
 
     Requer a instalação do Maven, Java e SonarQube Scanner no Jenkins. Para habilitar o SonarQube Scanner,
